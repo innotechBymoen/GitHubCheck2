@@ -1,0 +1,1 @@
+This is a project that will show the workflow of Git / GitHub
